@@ -1,56 +1,58 @@
-# Hi there 👋
+<h1 align="center">Hi, I'm Abdulhakeem (BabyKeem) 👋</h1>
+<p align="center">
+  Full Stack Engineer · CTO @ Trailblazing Technology Solutions · Bitcoin open source contributor<br/>
+  📍 Kaduna, Nigeria
+</p>
 
-I'm **Abdulhakeem Abdulazeez Ayodeji**, also known as **Ayoazeez26**. I'm passionate about JavaScript and TypeScript, constantly striving to enhance my skills and contribute to the developer community.
+---
 
-- 🌍 **Location:** Kaduna, Nigeria
-- 🏢 **Affiliation:** [@tgpcmedia](https://github.com/tgpcmedia)
-- 🐦 **Twitter:** [@ayoazeez26](https://twitter.com/ayoazeez26)
+### 🚀 What I'm up to
 
-## Achievements
+- 🟠 **Btrust Builders Open Source Fellow (2026)**: contributing to Bitcoin open source software, exploring **BDK** and **PayJoin**, and learning **Rust**
+- 🏗️ **CTO, Trailblazing Technology Solutions**: leading product and engineering on client builds
+- 💻 **Web Developer, IOHANNEN LTD** (remote)
 
-- 🏆 **Quickdraw**
-- 🤝 **Pair Extraordinaire**
-- 🎯 **YOLO** (x2)
-- ❄️ **Arctic Code Vault Contributor**
+### 🛠️ Selected work
 
-## Pinned Repositories
+| Project | What it is | Stack |
+| --- | --- | --- |
+| **NAPE Platform** | Membership + education SaaS serving 8,000+ members: conferences & payments, DRM-protected streaming, course builder, quizzes, QR-verified certificates | Nuxt 3, TypeScript, NestJS, PostgreSQL, Paystack, Zoom API, Cloud Run |
+| **Sable TV** | Vertical short-drama streaming app | React Native (Expo), NestJS, Mux, RevenueCat |
+| **CoreTrack** | Multi-tenant school management SaaS with admin, teacher, student & parent dashboards | NestJS, PostgreSQL, Redis/BullMQ |
+| **FutureX Education** | Multi-tenant school SaaS for 100k+ students; cut bundle size by 28% | Vue / Nuxt |
 
-- [**Web-Dev-Resources**](https://github.com/Ayoazeez26/Web-Dev-Resources): A collection of resources for web development.
-- [**MovieTickets**](https://github.com/Ayoazeez26/MovieTickets): A project related to movie ticket bookings.
-- [**vue-hangman**](https://github.com/Ayoazeez26/vue-hangman): A hangman game built with Vue.js.
-- [**vue-rock-paper-scissors**](https://github.com/Ayoazeez26/vue-rock-paper-scissors): A rock-paper-scissors game implemented in Vue.js.
-- [**vue-todo**](https://github.com/Ayoazeez26/vue-todo): A to-do application developed using Vue.js.
-- [**vue_github_finder**](https://github.com/Ayoazeez26/vue_github_finder): A GitHub user finder built with Vue.js.
+### 🟠 Bitcoin
 
-## Notable Projects
+- 🎓 Top graduate: Btrust's *Learning Bitcoin from the Command Line*
+- 🎓 Top performer: Bitshala's *Bitcoin Protocol Development* program
+- Hands-on with raw transactions, PSBTs, multisig, timelocks (CLTV/CSV), SegWit and Lightning fundamentals
 
-- [**Advice Generator App**](https://github.com/Ayoazeez26/advice-generator): A solution to the Advice Generator App challenge on Frontend Mentor, built with SvelteKit and TailwindCSS. [Live Site](https://advice-generator-plum.vercel.app/)
-- [**IP Address Tracker**](https://github.com/Ayoazeez26/ip2-address-tracker): A web application to track IP addresses.
+### 🧰 Tech stack
 
-## Contributions
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat&logo=typescript&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black)
+![Rust](https://img.shields.io/badge/Rust-000000?style=flat&logo=rust&logoColor=white)
+![Vue.js](https://img.shields.io/badge/Vue.js-4FC08D?style=flat&logo=vuedotjs&logoColor=white)
+![Nuxt](https://img.shields.io/badge/Nuxt-00DC82?style=flat&logo=nuxtdotjs&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat&logo=nextdotjs&logoColor=white)
+![React Native](https://img.shields.io/badge/React_Native-20232A?style=flat&logo=react&logoColor=61DAFB)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat&logo=nodedotjs&logoColor=white)
+![NestJS](https://img.shields.io/badge/NestJS-E0234E?style=flat&logo=nestjs&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat&logo=postgresql&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat&logo=amazonwebservices&logoColor=white)
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=flat&logo=googlecloud&logoColor=white)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat&logo=githubactions&logoColor=white)
 
-- Contributed to the [Nuxt.js](https://github.com/nuxt/nuxt) repository by addressing issues and participating in discussions.
+### 🌱 Open source
 
-## GitHub Stats
+- Bitcoin OSS via the Btrust Builders fellowship
+- [Nuxt](https://github.com/nuxt/nuxt), plus [JoyBoy](https://github.com/keep-starknet-strange/joyboy) (StarkNet social app) and zKube
 
-- **Repositories:** 127
-- **Stars:** 16
-- **Followers:** 16
-- **Following:** 11
+### 📫 Let's connect
 
-Feel free to explore my repositories and connect with me on Twitter. Let's collaborate and build amazing projects together!
-<!--
-**Ayoazeez26/Ayoazeez26** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+[![X](https://img.shields.io/badge/@ayoazeez26-000000?style=flat&logo=x&logoColor=white)](https://twitter.com/ayoazeez26)
+[![Email](https://img.shields.io/badge/ayoazeez26@gmail.com-D14836?style=flat&logo=gmail&logoColor=white)](mailto:ayoazeez26@gmail.com)
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
-
+I'm open to collaborations on Bitcoin, SaaS, and product engineering. Reach out!
